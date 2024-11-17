@@ -15,4 +15,4 @@ Coding Ninjas Skill Test Frontend Project Group 2
 # Features
 Home Page Search any meal from the API and display the search results on the frontend (as you type, the search results should update). Each search result of the meal should have a favourite button, clicking on which the meal should be added to “My favourite meals” (a list). On clicking any particular search result (any meal), open a new page with more information about that meal (meal page).
 # Hosted Link:
-https://Saloni1318.github.io/Meals-App/
+https://saloni1318.github.io/Meal_App/
